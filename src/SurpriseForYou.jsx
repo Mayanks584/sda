@@ -13,27 +13,27 @@ const CONFIG = {
   musicUrl: "", // put a hosted mp3 URL here to enable real background music
   startDate: "2022-04-14T00:00:00",
   welcome: {
-    title: "For Ankiet",
-    subtitle: "A little surprise, made with all my heart, from wherever I am to wherever you are.",
+    title: "For Ankit",
+    subtitle: "A little surprise, made with all my heart, just for you.",
   },
   letter: `My Ankit,
 
-Distance is just a number that tries to convince us we're far apart, but it has never once succeeded — not really. Every mile between us is just more space for me to miss you in.
+I wanted to make you something that felt like us — a little space you can come back to whenever you want to smile.
 
-I made you this, so that on the days the distance feels heavy, you have something small and soft to open, again and again. Every gift, every memory, every silly reason below is real. None of it is made up. All of it is you.
+I made you this, so that on any ordinary day, you have something small and soft to open, again and again. Every gift, every memory, every silly reason below is real. None of it is made up. All of it is you.
 
-Thank you for loving me across time zones, bad connections, and too-early mornings. I love you more than any message could ever say.
+Thank you for the way you love me — in the little everyday moments, the inside jokes, the mornings and the late nights. I love you more than any message could ever say.
 
 Always yours,
 Mansi`,
   gifts: [
-    { id: "chocolate", emoji: "🍫", label: "Chocolate", message: "A box of your favorite dark chocolate, saved for the next time I see you — or mailed the moment you say the word." },
-    { id: "teddy", emoji: "🧸", label: "Teddy Bear", message: "Something soft to hug when I can't be the one hugging you. Squeeze it and pretend it's me." },
+    { id: "chocolate", emoji: "🍫", label: "Chocolate", message: "A box of your favorite dark chocolate, waiting for our next movie night." },
+    { id: "teddy", emoji: "🧸", label: "Teddy Bear", message: "Something soft to hug whenever you feel like it. Consider it my stand-in for the nights I fall asleep first." },
     { id: "flowers", emoji: "💐", label: "Flowers", message: "Peonies, because you once said they looked like the inside of a sunrise." },
-    { id: "ring", emoji: "💍", label: "A Promise", message: "Not the ring yet — just the promise that it's coming, one day, when the distance finally runs out." },
+    { id: "ring", emoji: "💍", label: "A Promise", message: "Not the ring yet — just the promise that it's coming, one day." },
     { id: "coupon", emoji: "🎟️", label: "Love Coupon", message: "Redeemable anytime for one full day of my undivided attention, no phone, no excuses." },
-    { id: "hug", emoji: "🤗", label: "Digital Hug", message: "Consider yourself hugged. Tightly. For much longer than is socially normal." },
-    { id: "kiss", emoji: "💋", label: "Digital Kiss", message: "One kiss, sent at the speed of light, arriving exactly when you needed it." },
+    { id: "hug", emoji: "🤗", label: "A Hug", message: "Consider yourself hugged. Tightly. For much longer than is socially normal." },
+    { id: "kiss", emoji: "💋", label: "A Kiss", message: "One kiss, saved up just for you, delivered right now." },
     { id: "playlist", emoji: "🎵", label: "A Playlist", message: "Every song that has ever reminded me of you, in the order I found them." },
   ],
   photos: [
@@ -41,10 +41,10 @@ Mansi`,
     { src: "https://picsum.photos/seed/us2/500/400", caption: "First trip together" },
     { src: "https://picsum.photos/seed/us3/500/700", caption: "That rainy afternoon" },
     { src: "https://picsum.photos/seed/us4/500/500", caption: "Your favorite coffee shop" },
-    { src: "https://picsum.photos/seed/us5/500/600", caption: "Late night calls" },
+    { src: "https://picsum.photos/seed/us5/500/600", caption: "Late night talks" },
     { src: "https://picsum.photos/seed/us6/500/450", caption: "Silly faces only" },
     { src: "https://picsum.photos/seed/us7/500/680", caption: "Sunset, your favorite" },
-    { src: "https://picsum.photos/seed/us8/500/520", caption: "The airport hug" },
+    { src: "https://picsum.photos/seed/us8/500/520", caption: "That big warm hug" },
     { src: "https://picsum.photos/seed/us9/500/600", caption: "Just us, being us" },
   ],
   timeline: [
@@ -52,7 +52,7 @@ Mansi`,
     { icon: "💬", title: "First Chat", date: "April 2022", text: "Three hours felt like three minutes." },
     { icon: "🌸", title: "First Date", date: "June 2022", text: "You laughed so hard you nearly knocked over the table." },
     { icon: "📸", title: "Favorite Memory", date: "December 2023", text: "The trip we still talk about all the time." },
-    { icon: "💖", title: "Today", date: "Still going", text: "Further apart in miles, closer than ever in everything else." },
+    { icon: "💖", title: "Today", date: "Still going", text: "Closer than ever, and still going strong." },
   ],
   reasons: [
     "Your smile", "Your kindness", "Your ridiculous laugh", "How much you care",
@@ -69,7 +69,7 @@ Mansi`,
     { key: "star", icon: "star", label: "the star", message: "Even on our worst days, I never once wanted anyone else." },
     { key: "moon", icon: "moon", label: "the moon", message: "I look at the moon sometimes, knowing you might be looking at it too." },
     { key: "heart", icon: "heart", label: "the heart", message: "You are, without competition, the best thing that has happened to me." },
-    { key: "flower", icon: "flower", label: "the flower", message: "I am not going anywhere. Not now, not ever, not for any distance." },
+    { key: "flower", icon: "flower", label: "the flower", message: "I am not going anywhere. Not now, not ever." },
   ],
   endingMessage: "Thank you for being the most beautiful part of my life.",
 };
