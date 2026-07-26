@@ -18,12 +18,10 @@ const CONFIG = {
   },
   letter: `My Ankit,
 
-I wanted to make you something that felt like us — a little space you can come back to whenever you want to smile.
-
-I made you this, so that on any ordinary day, you have something small and soft to open, again and again. Every gift, every memory, every silly reason below is real. None of it is made up. All of it is you.
-
-Thank you for the way you love me — in the little everyday moments, the inside jokes, the mornings and the late nights. I love you more than any message could ever say.
-
+Happy B'day sweetheart ❤️✨🫂
+No matter where life takes us, I always want to stand by your side, support you, and celebrate every little moment with you. 🤝❤️
+Stay the amazing, caring, and wonderful person you are. Never stop smiling because your smile is my favorite. 😊💕
+Today is your day so justttt enjoy it Cutiepie😘
 Always yours,
 Mansi`,
   gifts: [
